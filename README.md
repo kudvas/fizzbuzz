@@ -1,14 +1,15 @@
 This FizzBuzz solution runs in 2 stages for 1 to 100 numbers each.
 STAGE 1 :
-    1. Print Fizz for multiples of three and Buzz for multiples of 5
-    
-    2. Prints FizzBuzz for multiples of both three and Five.
+
+    1. Prints Fizz for multiples of 3 
+    2. Prints Buzz for multiples of 5
+    2. Prints FizzBuzz for multiples of both 3 and 5.
 STAGE 2 :
-    1. Prints Fizz for multiples of three or if number has digit three.
-    
-    2. Prints Buzz for multiples of five or if number has digit five.
-    
+
+    1. Prints Fizz for multiples of 3 or if number has digit 3.
+    2. Prints Buzz for multiples of 5 or if number has digit 5.
     3. Prints FizzBuzz  if both conditions 1 and 2 are met.
+    
 Main class : FizzBuzzApp
 
 How to run?
